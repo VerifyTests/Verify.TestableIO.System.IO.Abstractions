@@ -4,7 +4,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/8i6xgngkisbxxye6?svg=true)](https://ci.appveyor.com/project/SimonCropp/verify-testableio-system-io-abstractions)
 [![NuGet Status](https://img.shields.io/nuget/v/Verify.TestableIO.System.IO.Abstractions.svg)](https://www.nuget.org/packages/Verify.TestableIO.System.IO.Abstractions/)
 
-Extends [Verify](https://github.com/VerifyTests/Verify) to allow verification of [Verify.TestableIO.System.IO.Abstractions](https://github.com/TestableIO/System.IO.Abstractions) bits.<!-- singleLineInclude: intro. path: /docs/intro.include.md -->
+Extends [Verify](https://github.com/VerifyTests/Verify) to allow verification of [TestableIO.System.IO.Abstractions](https://github.com/TestableIO/System.IO.Abstractions) bits.<!-- singleLineInclude: intro. path: /docs/intro.include.md -->
 
 **See [Milestones](../../milestones?state=closed) for release notes.**
 
