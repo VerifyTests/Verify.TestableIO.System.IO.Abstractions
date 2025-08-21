@@ -21,7 +21,7 @@ Extends [Verify](https://github.com/VerifyTests/Verify) to allow verification of
 
 ## NuGet
 
- * https://nuget.org/packages/TestableIO.System.IO.Abstractions
+ * https://nuget.org/packages/Verify.TestableIO.System.IO.Abstractions
 
 
 ## Usage
