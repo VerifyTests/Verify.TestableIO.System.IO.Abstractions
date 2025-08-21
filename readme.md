@@ -4,7 +4,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/bgvkfjn26l5b4kba?svg=true)](https://ci.appveyor.com/project/SimonCropp/verify-system-io-abstractions)
 [![NuGet Status](https://img.shields.io/nuget/v/Verify.System.IO.Abstractions.svg)](https://www.nuget.org/packages/Verify.System.IO.Abstractions/)
 
-Extends [Verify](https://github.com/VerifyTests/Verify) to allow verification of [Serilog](https://serilog.net/) bits.<!-- singleLineInclude: intro. path: /docs/intro.include.md -->
+Extends [Verify](https://github.com/VerifyTests/Verify) to allow verification of [System.IO.Abstractions](https://github.com/TestableIO/System.IO.Abstractions) bits.<!-- singleLineInclude: intro. path: /docs/intro.include.md -->
 
 **See [Milestones](../../milestones?state=closed) for release notes.**
 
@@ -16,7 +16,7 @@ Extends [Verify](https://github.com/VerifyTests/Verify) to allow verification of
 
 [Entity Framework Extensions](https://entityframework-extensions.net/?utm_source=simoncropp&utm_medium=Verify.Serilog) is a major sponsor and is proud to contribute to the development this project.
 
-[![Entity Framework Extensions](https://raw.githubusercontent.com/VerifyTests/Verify.Serilog/refs/heads/main/docs/zzz.png)](https://entityframework-extensions.net/?utm_source=simoncropp&utm_medium=Verify.Serilog)<!-- endInclude -->
+[![Entity Framework Extensions](https://raw.githubusercontent.com/VerifyTests/Verify.System.IO.Abstractions/refs/heads/main/docs/zzz.png)](https://entityframework-extensions.net/?utm_source=simoncropp&utm_medium=Verify.System.IO.Abstractions)<!-- endInclude -->
 
 
 ## NuGet
