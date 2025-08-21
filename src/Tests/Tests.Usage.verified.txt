@@ -1,0 +1,6 @@
+﻿{
+  target: Result,
+  log: {
+    Error: The Message
+  }
+}

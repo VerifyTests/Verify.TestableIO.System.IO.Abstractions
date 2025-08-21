@@ -1,0 +1,1 @@
+Extends [Verify](https://github.com/VerifyTests/Verify) to allow verification of [System.IO.Abstractions](https://github.com/TestableIO/System.IO.Abstractions) bits.

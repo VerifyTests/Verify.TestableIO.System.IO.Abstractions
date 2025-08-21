@@ -1,0 +1,9 @@
+﻿{
+  target: Result,
+  log: {
+    Error: The Message,
+    Properties: {
+      key: value
+    }
+  }
+}
