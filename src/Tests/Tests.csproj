@@ -8,10 +8,11 @@
     <PackageReference Include="MarkdownSnippets.MsBuild" PrivateAssets="all" />
     <PackageReference Include="NUnit" />
     <PackageReference Include="NUnit3TestAdapter" />
+    <PackageReference Include="TestableIO.System.IO.Abstractions.Wrappers" />
     <PackageReference Include="Verify.DiffPlex" />
     <PackageReference Include="Verify.NUnit" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" />
-    <ProjectReference Include="..\Verify.System.IO.Abstractions\Verify.System.IO.Abstractions.csproj" />
+    <ProjectReference Include="..\Verify.TestableIO.System.IO.Abstractions\Verify.TestableIO.System.IO.Abstractions.csproj" />
     <PackageReference Include="ProjectDefaults" PrivateAssets="all" />
   </ItemGroup>
 </Project>

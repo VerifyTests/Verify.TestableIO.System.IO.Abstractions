@@ -7,7 +7,7 @@ public static class ModuleInitializer
 
     [ModuleInitializer]
     public static void Initialize() =>
-        VerifySerilog.Initialize();
+        VerifyTestableIOSystemIOAbstractions.Initialize();
 
     #endregion
 
