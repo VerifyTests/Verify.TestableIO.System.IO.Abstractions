@@ -1,4 +1,5 @@
-﻿[TestFixture]
+namespace TestableIOTests;
+
 public class Tests
 {
     #region Usage

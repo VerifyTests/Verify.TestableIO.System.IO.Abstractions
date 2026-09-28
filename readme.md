@@ -37,7 +37,7 @@ Extends [Verify](https://github.com/VerifyTests/Verify) to allow verification of
 public static void Initialize() =>
     VerifyTestableIOSystemIOAbstractions.Initialize();
 ```
-<sup><a href='/src/Tests/ModuleInitializer.cs#L6-L12' title='Snippet source file'>snippet source</a> | <a href='#snippet-Enable' title='Start of snippet'>anchor</a></sup>
+<sup><a href='/src/Tests/ModuleInitializer.cs#L3-L9' title='Snippet source file'>snippet source</a> | <a href='#snippet-Enable' title='Start of snippet'>anchor</a></sup>
 <!-- endSnippet -->
 
 <!-- snippet: Usage -->
@@ -51,7 +51,7 @@ public async Task Usage()
     await Verify(fileInfo);
 }
 ```
-<sup><a href='/src/Tests/Tests.cs#L4-L14' title='Snippet source file'>snippet source</a> | <a href='#snippet-Usage' title='Start of snippet'>anchor</a></sup>
+<sup><a href='/src/Tests/Tests.cs#L5-L15' title='Snippet source file'>snippet source</a> | <a href='#snippet-Usage' title='Start of snippet'>anchor</a></sup>
 <!-- endSnippet -->
 
 Results in:
