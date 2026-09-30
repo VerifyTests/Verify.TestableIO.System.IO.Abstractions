@@ -7,7 +7,6 @@
   <ItemGroup>
     <PackageReference Include="MarkdownSnippets.MsBuild" PrivateAssets="all" />
     <PackageReference Include="TestableIO.System.IO.Abstractions.Wrappers" />
-    <PackageReference Include="Verify.DiffPlex" />
     <PackageReference Include="Verify.TUnit" />
     <PackageReference Include="TUnit" />
     <ProjectReference Include="..\Verify.TestableIO.System.IO.Abstractions\Verify.TestableIO.System.IO.Abstractions.csproj" />
