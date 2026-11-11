@@ -10,7 +10,7 @@
     <PackageVersion Include="Sbom" Version="0.3.1" />
     <PackageVersion Include="TUnit" Version="1.81.16" />
     <PackageVersion Include="TestableIO.System.IO.Abstractions" Version="22.3.0" />
-    <PackageVersion Include="TestableIO.System.IO.Abstractions.Wrappers" Version="22.3.0" />
+    <PackageVersion Include="TestableIO.System.IO.Abstractions.Wrappers" Version="23.0.0" />
     <PackageVersion Include="Verify" Version="33.3.4" />
     <PackageVersion Include="Verify.TUnit" Version="33.3.4" />
   </ItemGroup>
